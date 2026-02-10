@@ -5,7 +5,7 @@ import { Routes, Route, useLocation } from "react-router-dom";
 
 import Login from "./auth/Login";
 import Signup from "./auth/Signup";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import Navbar from "./components/Navbar";
 import Profile from "./profile/Profile";
 import Notifications from "./pages/Notification";
