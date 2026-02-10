@@ -8,11 +8,11 @@ import Signup from "./auth/Signup";
 import Home from "./Pages/Home";
 import Navbar from "./components/Navbar";
 import Profile from "./profile/Profile";
-import Notifications from "./pages/Notification";
-import ExplorePage from "./pages/ExplorePage";
-import ViewProfile from "./pages/ViewProfile";
-import MyPostsPage from "./pages/MyPost";
-import CreatePostPage from "./pages/CreatePost";
+import Notifications from "./Pages/Notification";
+import ExplorePage from "./Pges/ExplorePage";
+import ViewProfile from "./Pages/ViewProfile";
+import MyPostsPage from "./Pages/MyPost";
+import CreatePostPage from "./Pages/CreatePost";
 
 import { useDispatch } from "react-redux";
 import { setUser } from "./redux/authSlice";
